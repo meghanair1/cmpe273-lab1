@@ -1,10 +1,9 @@
 # output for  Lab1 :part1 (i. Use requests to make 3 HTTP calls to)
 
 
-Sun, 02 Sep 2018 07:14:40 GMT
-Sun, 02 Sep 2018 07:14:42 GMT
-Sun, 02 Sep 2018 07:14:45 GMT
-
+Sun, 02 Sep 2018 07:28:04 GMT
+Sun, 02 Sep 2018 07:28:05 GMT
+Sun, 02 Sep 2018 07:28:05 GMT
 
 
 
